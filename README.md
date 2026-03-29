@@ -1,4 +1,4 @@
-<![CDATA[# Hi, I'm Jason Carpenter
+# Hi, I'm Jason Carpenter
 
 **Applied AI Engineer | Agentic Systems Builder | Staff Full Stack Engineer**
 
@@ -55,4 +55,3 @@ I design and ship **multi-agent systems** that run autonomously on daily schedul
 ### Links
 
 🌐 [**Portfolio**](https://tinyurl.com/jasoncarpenter-portfolio) · 📄 [**LinkedIn**](https://linkedin.com/in/jason-carpenter-23703a60/) · ✉️ [carpenter.jason.m@gmail.com](mailto:carpenter.jason.m@gmail.com)
-]]>
