@@ -11,19 +11,19 @@ I turn messy real-world workflows into practical agentic systems, retrieval-back
 I design and ship **multi-agent systems** that run autonomously on daily schedules, scrape live data, make structured decisions, and surface results through dashboards and notifications — with humans in the loop where it matters.
 
 ```
-┌─────────────────────────────────────────────────────────┐
-│                    ORCHESTRATOR (Family Guy)             │
-│  RAG calendar ingestion · daily briefings · email auto  │
-│                                                         │
-│   ┌──────────┐  ┌──────────┐  ┌──────────┐             │
-│   │  Schooly  │  │   Lyra   │  │  Trader  │   + more   │
-│   │ PowerSchool│  │Marketing │  │  Crypto  │             │
-│   │  grades   │  │ outreach │  │  signals │             │
-│   └─────┬────┘  └─────┬────┘  └─────┬────┘             │
-│         │              │              │                  │
-│    structured     human-in-loop   deterministic          │
-│    file reports   approval gates  risk gates             │
-└─────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────┐
+│                  ORCHESTRATOR (Family Guy)                    │
+│    RAG calendar ingestion · daily briefings · email auto     │
+│                                                              │
+│   ┌─────────────┐  ┌─────────────┐  ┌─────────────┐         │
+│   │   Schooly   │  │    Lyra     │  │   Trader    │ + more  │
+│   │ PowerSchool │  │  Marketing  │  │   Crypto    │         │
+│   │   grades    │  │  outreach   │  │   signals   │         │
+│   └──────┬──────┘  └──────┬──────┘  └──────┬──────┘         │
+│          │                │                │                 │
+│     structured      human-in-loop    deterministic           │
+│    file reports    approval gates     risk gates             │
+└──────────────────────────────────────────────────────────────┘
 ```
 
 ### Core Skills
