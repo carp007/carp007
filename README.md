@@ -11,19 +11,29 @@ I turn messy real-world workflows into practical agentic systems, retrieval-back
 I design and ship **multi-agent systems** that run autonomously on daily schedules, scrape live data, make structured decisions, and surface results through dashboards and notifications — with humans in the loop where it matters.
 
 ```
-┌──────────────────────────────────────────────────────────────┐
-│                  ORCHESTRATOR (Family Guy)                    │
-│    RAG calendar ingestion · daily briefings · email auto     │
-│                                                              │
-│   ┌─────────────┐  ┌─────────────┐  ┌─────────────┐         │
-│   │   Schooly   │  │    Lyra     │  │   Trader    │ + more  │
-│   │ PowerSchool │  │  Marketing  │  │   Crypto    │         │
-│   │   grades    │  │  outreach   │  │   signals   │         │
-│   └──────┬──────┘  └──────┬──────┘  └──────┬──────┘         │
-│          │                │                │                 │
-│     structured      human-in-loop    deterministic           │
-│    file reports    approval gates     risk gates             │
-└──────────────────────────────────────────────────────────────┘
+┌────────────────────────────────────────────────────────────────┐
+│               OPENCLAW  ·  multi-agent platform                │
+│                                                                │
+│        ┌───────────────────────────────────────────┐           │
+│        │  ATLAS  ·  orchestrator & cron scheduler  │           │
+│        └─────────────────────┬─────────────────────┘           │
+│                              │                                 │
+│           ┌──────────────────┴────────────────┐                │
+│           │                  │                │                │
+│  ┌────────────────┐   ┌────────────┐   ┌────────────┐          │
+│  │   Family Guy   │   │    Lyra    │   │   Trader   │ + more   │
+│  │ household ops  │   │ marketing  │   │   crypto   │          │
+│  │  calendar RAG  │   │  outreach  │   │  signals   │          │
+│  │  daily briefs  │   └──────┬─────┘   └──────┬─────┘          │
+│  │ ┌────────────┐ │          │                │                │
+│  │ │  Schooly   │ │          │                │                │
+│  │ │   grades   │ │          │                │                │
+│  │ └────────────┘ │          │                │                │
+│  └────────┬───────┘          │                │                │
+│           │                  │                │                │
+│      structured        human-in-loop    deterministic          │
+│     file reports      approval gates     risk gates            │
+└────────────────────────────────────────────────────────────────┘
 ```
 
 ### Core Skills
@@ -45,6 +55,8 @@ I design and ship **multi-agent systems** that run autonomously on daily schedul
 **Full Stack:** Python · .NET/C# · TypeScript · Angular · React · Next.js · REST APIs · GraphQL
 
 **Infrastructure:** SQL Server · Postgres · MySQL · AWS · Azure · Terraform · Kubernetes
+
+**Robotics:** Arduino · PlatformIO · ESP32 · Raspberry Pi
 
 ---
 
