@@ -11,29 +11,32 @@ I turn messy real-world workflows into practical agentic systems, retrieval-back
 I design and ship **multi-agent systems** that run autonomously on daily schedules, scrape live data, make structured decisions, and surface results through dashboards and notifications — with humans in the loop where it matters.
 
 ```
-┌────────────────────────────────────────────────────────────────┐
-│               OPENCLAW  ·  multi-agent platform                │
-│                                                                │
-│        ┌───────────────────────────────────────────┐           │
-│        │  ATLAS  ·  orchestrator & cron scheduler  │           │
-│        └─────────────────────┬─────────────────────┘           │
-│                              │                                 │
-│           ┌──────────────────┴────────────────┐                │
-│           │                  │                │                │
-│  ┌────────────────┐   ┌────────────┐   ┌────────────┐          │
-│  │   Family Guy   │   │    Lyra    │   │   Trader   │ + more   │
-│  │ household ops  │   │ marketing  │   │   crypto   │          │
-│  │  calendar RAG  │   │  outreach  │   │  signals   │          │
-│  │  daily briefs  │   └──────┬─────┘   └──────┬─────┘          │
-│  │ ┌────────────┐ │          │                │                │
-│  │ │  Schooly   │ │          │                │                │
-│  │ │   grades   │ │          │                │                │
-│  │ └────────────┘ │          │                │                │
-│  └────────┬───────┘          │                │                │
-│           │                  │                │                │
-│      structured        human-in-loop    deterministic          │
-│     file reports      approval gates     risk gates            │
-└────────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────────────────┐
+│                   OPENCLAW  ·  multi-agent platform                      │
+│                                                                          │
+│           ┌───────────────────────────────────────────┐                  │
+│           │  ATLAS  ·  orchestrator & cron scheduler  │                  │
+│           └─────────────────────┬─────────────────────┘                  │
+│                                 │                                        │
+│        ┌────────────────────────┼────────────────────────┐               │
+│        │                        │                        │               │
+│  ┌────────────────┐   ┌────────────────┐   ┌────────────────┐            │
+│  │   Family Guy   │   │      Lyra      │   │     Trader     │  + more    │
+│  │ household ops  │   │   marketing    │   │  crypto swing  │            │
+│  │  calendar RAG  │   │    outreach    │   │    signals     │            │
+│  │  daily briefs  │   └───────┬────────┘   └───────┬────────┘            │
+│  │ ┌────────────┐ │           │                    │                     │
+│  │ │  Schooly   │ │           │                    │                     │
+│  │ │   grades   │ │   ┌───────────────┐   ┌───────────────┐             │
+│  │ └────────────┘ │   │   Bittensor   │   │  Sales Mgr    │             │
+│  └────────┬───────┘   │  TAO staking  │   │ workshop ops  │             │
+│           │           │  subnet alpha │   │  Wix API +    │             │
+│           │           │  research rig │   │  AgentMail    │             │
+│           │           └───────┬───────┘   └───────┬───────┘             │
+│           │                   │                   │                      │
+│      structured         deterministic       API-driven                   │
+│     file reports        proposal engine     email routing                │
+└──────────────────────────────────────────────────────────────────────────┘
 ```
 
 ### Core Skills
@@ -50,7 +53,7 @@ I design and ship **multi-agent systems** that run autonomously on daily schedul
 
 ### Tech I Work With
 
-**AI/Agents:** OpenClaw · MCP · RAG · Multi-Agent Orchestration · LLM APIs · Local Models (LM Studio) · Prompt & Tool Schema Design · Browser Automation · Claude Code · Codex · Hermes Agent
+**AI/Agents:** OpenClaw · MCP · RAG · Multi-Agent Orchestration · LLM APIs · Local Models (LM Studio) · Prompt & Tool Schema Design · Browser Automation · Claude Code · Codex · Hermes Agent · Bittensor/TAO
 
 **Full Stack:** Python · .NET/C# · TypeScript · Angular · React · Next.js · REST APIs · GraphQL
 
