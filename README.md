@@ -50,7 +50,7 @@ I design and ship **multi-agent systems** that run autonomously on daily schedul
 
 ### Tech I Work With
 
-**AI/Agents:** OpenClaw · MCP · RAG · Multi-Agent Orchestration · LLM APIs · Local Models (LM Studio) · Prompt & Tool Schema Design · Browser Automation · Claude Code · Codex
+**AI/Agents:** OpenClaw · MCP · RAG · Multi-Agent Orchestration · LLM APIs · Local Models (LM Studio) · Prompt & Tool Schema Design · Browser Automation · Claude Code · Codex · Hermes Agent
 
 **Full Stack:** Python · .NET/C# · TypeScript · Angular · React · Next.js · REST APIs · GraphQL
 
